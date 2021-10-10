@@ -1,4 +1,4 @@
-# Pytorch-Fashion-MNIST-prediction
+# Pytorch-Fashion-MNIST-Prediction
 
 1. DataSet: FashionMNIST
 2. Framework: Pytorch
